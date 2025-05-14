@@ -1,2 +1,4 @@
 https://dev.to/zacharylee/explicit-resource-management-in-js-the-using-keyword-d9f
 https://github.com/tc39/proposal-explicit-resource-management
+https://github.com/nodejs/node/blob/main/lib/internal/events/abort_listener.js#L45
+https://github.com/nodejs/node/blob/main/lib/internal/test_runner/mock/mock_timers.js#L761
